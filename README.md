@@ -1,5 +1,8 @@
 Environement:
 
+
+Need Update (/pygame\)
+
 Python3
 Numpy
 Tensorflow 1.12
